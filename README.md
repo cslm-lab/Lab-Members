@@ -165,12 +165,13 @@ I decided to study at the Master's degree "Cognitive Systems" because, coming fr
 
 -------------------------------------------------------------
 ## Valentina Tretti (Research Assistant)
-<img src="./xxxx.png" style="width:25%; border:1px solid; margin-right: 20px" align="left">
+<img src="./valentina.png" style="width:25%; border:1px solid; margin-right: 20px" align="left">
 
 #### Short bio  
-
+I received my BA in Spanish Philology from University of Costa Rica. During my BA I worked two research projects: "Digital Bribri Bilingual Dictionary" and "Discomfort, conflict and contention: discourses of the "national community" on democracy in the 2018 electoral process". After I graduated, apart from my formal job, I continue working in research projects such as: "Linguistic landscape of urban neighborhoods and its perception in people", "TL-Lab (Laboratory of Technology and Language)" and "Txts (Web application to change legal texts into plain language)". In 2022, I enrolled in  the Master Cognitive Systems: Language, Learning and Reasoning in Potsdam University. In the second semester I started  working as a student assistant for the lab “Cognitive Science: Language & Methods” under  Dr. Audrey Bürki’s supervision.
 
 #### Research interests
+I am interested in general in discourse studies, pragmatics, semiotics, natural language processing and linguistic anthropology. 
 
 
 -------------------------------------------------------------
